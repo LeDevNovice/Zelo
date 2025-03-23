@@ -7,7 +7,7 @@
 ### Fixes
  -->
 
-## [0.0.1] - Unreleased
+## [0.0.1] - 23/03/2025
 ### Chore
  - Initialize project configuration and requirements.
    - CI and template for pull request validation and formatting
